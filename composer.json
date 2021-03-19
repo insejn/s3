@@ -1,0 +1,9 @@
+{
+  "name": "insejn/amazon-s3-and-cloudfront-pro",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Amazon s3 plugin",
+  "keywords": [
+      "wordpress"
+  ]
+}
